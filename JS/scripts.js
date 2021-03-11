@@ -1,3 +1,4 @@
+
 function myFunction(){  //calling
     var cc=document.getElementById("century");
     var yy=parseInt(document.getElementById("year").value)
@@ -5,3 +6,8 @@ function myFunction(){  //calling
     var dd=parseInt(document.getElementById("day").value)
     var male=document.getElementById("male");
     var female=document.getElementById("female");
+
+    //starting arrays
+    var femaleNames=
+
+}
