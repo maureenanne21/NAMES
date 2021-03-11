@@ -1,5 +1,6 @@
 # NAMES
-{the application shows akan names}, {27/03/2021}
+{the application shows akan names}, 
+{27/03/2021}
 By {MAUREEN ANNE}
 Description
 
