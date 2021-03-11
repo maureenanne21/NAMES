@@ -1,10 +1,8 @@
-# NAMES
-{the application shows akan names}, 
-{27/03/2021}
+{the application creates a fictional studio}, {03/03/2021}
 By {MAUREEN ANNE}
 Description
 
-{the application uses html,css,javascript and jquery to display AKAN NAMES with the use of navbar,gallery and bootstrap 4.6 together with font awesome}
+{the application uses html,css,javascript and jquery to display the fictional studio with the use of navbar,gallery and bootstrap 4.6 together with font awesome}
 Known Bugs
 
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
