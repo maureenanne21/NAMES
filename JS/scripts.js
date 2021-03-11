@@ -6,10 +6,9 @@ function myFunction(){  //calling
     var dd=parseInt(document.getElementById("day").value)
     var male=document.getElementById("male");
     var female=document.getElementById("female");
-
     //starting arrays
     var femaleNames=
-    var femaleNames=
+    
     ["Akosua",
     "Adowa",
     "Akua",
@@ -42,7 +41,20 @@ else if(cc<19||cc>20){
 }    var day =new Date(cc + "-" + yy + "-" + mm + "-" + dd);
    var dayWanted=day.getDay();
        if(male.checked==true){
-        document.getElementById("text").innerHTML=("You were born on " +weekDays[dayWanted]+ " and your akan name is " + maleNames[dayWanted])}
+        document.getElementById("text").innerHTML=("You were born on " +weekDays[dayWanted]+ " and your akan name is " + maleNames[dayWanted])
+    }
     else if(female.checked==true){
-        document.getElementById("text").innerHTML=("You were born on " +weekDays[dayWanted]+ " and your akan name is " + femaleNames[dayWanted])}
+        document.getElementById("text").innerHTML=("You were born on " +weekDays[dayWanted]+ " and your akan name is " + femaleNames[dayWanted])
+    }
+
 }
+// var maleNames = ["Kwasi","Kwadwo","Kwabena","Kwaku","Yaw","Kofi","Kwame"];
+// var femaleNames = ["Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"];
+// var daysOfTheWeek =  ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];// function getCenturyFromYear(year){
+//     if(year % 100 === 0){
+//         return year / 100;
+//     }else{
+//         var remainder = year % 100;
+//          return((year + 100 ) - remainder) / 100;
+//     }
+// }
