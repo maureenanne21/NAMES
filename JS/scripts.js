@@ -17,6 +17,15 @@ function myFunction(){  //calling
     "Afua",
     "Afu",
     "Ama"];
-    
+    var maleNames=
+    ["Kwasi",
+     "Kwadwo",
+     "Kwabena",
+     "Kwafu",
+     "Yaw",
+     "Kofi",
+     "Kwame",]
+               //0       1        2          3           4         5           6
+ var weekDays=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friaday","Saturday"];
 
 }
