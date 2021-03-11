@@ -9,5 +9,14 @@ function myFunction(){  //calling
 
     //starting arrays
     var femaleNames=
+    var femaleNames=
+    ["Akosua",
+    "Adowa",
+    "Akua",
+    "Yaa",
+    "Afua",
+    "Afu",
+    "Ama"];
+    
 
 }
